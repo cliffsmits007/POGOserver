@@ -62,8 +62,6 @@ Open up a terminal and enter ``npm run boot`` to start the server.
 
 
 
-## Set Up Api
-
 ### Setting up API services
 
 First of all you should create A API Services through google.
@@ -113,6 +111,21 @@ you need to place youré Api KEY Behind /maps/api/js?key=.
 
 example 
   loadScriptDefered("http://maps.google.com/maps/api/js?key=Place here Youré Api Key" + CFG.GMAPS.API_KEY);
+
+
+WHen evreything has been edited and been saved.
+
+go to Youré internet Browser and go to localhost or 127.0.0.1
+
+![](https://cdn.discordapp.com/attachments/216235545393627136/224472383208030210/unknown.png)
+
+Login with root and leave youré password empty click login.
+
+![](https://images-2.discordapp.net/.eJwFwQEKwyAMAMC_-ABjjdHZ34g6K7SNaAaFsb_v7qs-81S7OkTG2gFKX5ln0Ut4plZ1Y25nTaMvnfmCJJLycdVbFtjNWyRyhBG9DRt6sNZFNBiNC_QyhoKHd39q0eNu6vcHvrYh1w.d5EmSAetGKkh_vj3lnqgHqhVwYQ.png)
+
+
+and if you follow the steps correctly evreything should work like a Charm.
+
 
 
 ## Docker setup
