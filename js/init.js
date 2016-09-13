@@ -9,7 +9,7 @@
     document.body.appendChild(js);
   };
 
-  loadScriptDefered("http://maps.google.com/maps/api/js?key=" + CFG.GMAPS.API_KEY);
+  loadScriptDefered("http://maps.google.com/maps/api/js?key=Enter Here API Key" + CFG.GMAPS.API_KEY);
   loadScriptDefered("js/gmaps.js");
   loadScriptDefered("js/ajax.js");
   loadScriptDefered("js/main.js");
